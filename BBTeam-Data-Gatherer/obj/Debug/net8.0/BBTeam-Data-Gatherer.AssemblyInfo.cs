@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BBTeam-Data-Gatherer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe7e6000c0d4beeef9d00071d7e70e28f84174b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BBTeam-Data-Gatherer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BBTeam-Data-Gatherer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
